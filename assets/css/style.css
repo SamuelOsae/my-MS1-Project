@@ -260,3 +260,10 @@ footer {
     width: 60%;
 }
 
+/*--------------------------section */
+
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
