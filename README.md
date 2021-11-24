@@ -112,18 +112,10 @@ Acknowledgement
 . Student Care - Alexander uncountable chances to pursue the course, I am immensely grateful
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 References
 
 Takefman, B., 2021. Amanzon profits increased nearly 200% with COVID-19 | Research FDI.[online] Research FDI Available at: https://researchfdi.comamazon-covid-19-pandemic-profits [accessed: 16 November, 2021]
+
+Anon. 2021. Same day delivery, Fnp.com. (2021). [online] Available at: https://i1.fnp.com/assets/images/custom/usa-micro/top-banner/same_Delivery__4_may_Desk.jpg [Accessed 24 Nov. 2021].
+
+‌
