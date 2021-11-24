@@ -88,7 +88,7 @@ Further Testing
 . Friends and family members were asked to review the site and documentation to point out any user experience issues and criticism were taken into consideration.
 
 Limitations
-I have included these limitations not to seek for any form of consideration but highlight the things I should have but could not do due to time constraints.
+I have included these limitations to highlight the things I should have done but could not do due to time constraints.
 My journey through the course has been hampered by unbearable setbacks and the last straw which broke the camels back was twenty-four hours to my submission, I have lost my finished work as a result of a sudden shut down of my system.
 I had to make two important decision, ask for time extension or redo the work again, I opted for the latter, hence, lack of time has limited and affected my intended outcome. Therefore, I will like future innovations of this website to include the following;
 
