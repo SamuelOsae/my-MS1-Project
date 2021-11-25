@@ -66,8 +66,29 @@ f. Gitpod
 Testing of the Website
 . The W3C Markup validator and W3c CSS validator services were used to validate every page of my project to ensure there were no syntax errors in the project
 
--W3C Markedup Validator 
-W3C CSS Validator 
+-W3C Markedup Validator: Nu Html Checker
+This tool is an ongoing experiment in better HTML checking, and its behavior remains subject to change
+
+Showing results for contents of text-input area
+Checker Input
+Show sourceoutlineimage reportcheck error pagesUser-Agent 
+Validator.nu/LV http://validator.w3.org/services
+Accept-Language 
+
+Check by
+text input
+CSS
+
+
+
+Use the Message Filtering button below to hide/show particular messages, and to see total counts of errors and warnings.
+Message Filtering
+Warning: The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment.
+-W3C CSS Validator: W3C CSS Validator results for TextArea (CSS level 3 + SVG)
+Congratulations! No Error Found.
+This document validates as CSS level 3 + SVG !
+
+To show your readers that you've taken the care to create an interoperable Web page, you may display this icon on any page that validates. Here is the XHTML you could use to add this icon to your Web page:
 
 Testing User Experience
 First Time Visitors
